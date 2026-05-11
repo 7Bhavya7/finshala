@@ -1,0 +1,2 @@
+Status: 200
+{"id":"7831939207e44777873a037a3c564f3d","object":"chat.completion","created":1774713656,"model":"meta-llama/llama-3.1-8b-instruct","choices":[{"index":0,"message":{"role":"assistant","content":"Hello, how are you today?"},"finish_reason":"stop","content_filter_results":{"hate":{"filtered":false},"self_harm":{"filtered":false},"sexual":{"filtered":false},"violence":{"filtered":false},"jailbreak":{"filtered":false,"detected":false},"profanity":{"filtered":false,"detected":false}}}],"usage":{"prom
